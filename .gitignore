@@ -1,0 +1,6 @@
+# compiled code
+/*.o
+
+# compiled program itself
+/dmenu
+/stest
